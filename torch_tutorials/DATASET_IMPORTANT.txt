@@ -1,0 +1,9 @@
+The data folder is on my google drive: https://drive.google.com/drive/u/0/my-drive
+Download the data.zip folder: ~ 472 MB
+Extract it in torch_tutorials
+
+File Path: torch_tutorials/data/:
+- cifar
+- MNIST
+- hymenoptera_data
+- ...

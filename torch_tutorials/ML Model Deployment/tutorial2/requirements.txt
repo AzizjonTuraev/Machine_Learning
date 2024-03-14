@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+pypi-json
+scikit-learn
+requests
